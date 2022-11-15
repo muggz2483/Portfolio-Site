@@ -1,0 +1,30 @@
+body {
+  background-image: url("./bckgrnd.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family: cursive;
+}
+
+#title1 {
+  color: rgb(0, 0, 0);
+  background-color: rgb(227, 227, 227);
+  display:inline;
+}
+
+#title2 {
+  color: rgb(0, 0, 0);
+  background-color: rgb(227, 227, 227);
+  display:inline;
+}
+
+#top {
+  text-align: center;
+}
+
+#aboutme {
+  background-color: rgb(255, 255, 255);
+}
+
+#mainpage {
+  background-color: rgb(255, 255, 255);
+}
